@@ -1,0 +1,8 @@
+name: Tanzu Globals SE Workshop
+
+modules:
+    activate:
+    - index
+    - labs/setup
+    - labs/testcase
+    - finish
